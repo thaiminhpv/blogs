@@ -89,7 +89,7 @@ Các bạn tưởng tượng quy trình sẽ như thế này:
 2. Khi **dòng bạn muốn sửa** nằm trong màn hình của bạn, sử dụng `số + j/k` để đi tới đó.
 3. nhấn `cb`/`c'`/`cl`/`cq`/`cd`, tùy bạn muốn chỉnh sửa ở đâu.
 
-![demo-detail-keybinding](./resources/gif-guides/demo.gif)
+![demo-detail-keybinding](./resources/gif-guides/vimfast.gif)
 
 `b` là "bracket" hay `(`, `)`
 
