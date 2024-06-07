@@ -1,4 +1,4 @@
-# Cách code nhanh hơn 30 lần với VimFast - rethinking how to use Vim
+# Code nhanh hơn 30 lần với VimFast - rethinking how to use Vim
 
 Sau khi đọc xong blog này, mọi người sẽ làm được như sau
 
@@ -75,7 +75,11 @@ Chỉ mất 2 phút để làm quen và 10 phút để "thành thạo" VimFast
 
 *(~10 mins) - Bạn nào đã biết cơ bản vim rồi thì có thể skip qua phần này*
 
-Bây giờ mình sẽ cần các bạn hoàn thành vimtutor
+Để bắt đầu, các bạn sẽ cần hoàn thành [vimtutor](https://gist.github.com/hashrocketeer/852a4f878acd42abbf98f18278329bdc). Các bạn cài [Vim Plugin trên VSCode](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim), tải file [này](https://gist.github.com/hashrocketeer/852a4f878acd42abbf98f18278329bdc) về và mở ra làm theo hướng dẫn.
+
+Các bạn làm từ mục 1 đến 4.3, cộng thêm phần 6.1 và 6.2 là đủ để  qua phần VimFast bên dưới rồi.
+
+Bạn có thể  xem video [này](https://www.youtube.com/watch?v=WD9CvdIAflY) của anh Phạm Huy Hoàng (Tôi đi code dạo) để dễ dàng hoàn thành vimtutor một cách trực quan hơn.
 
 ### VimFast
 
