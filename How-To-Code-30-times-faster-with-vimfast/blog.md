@@ -90,7 +90,8 @@ Các bạn tưởng tượng quy trình sẽ như thế này:
 3. nhấn `cb`/`c'`/`cl`/`cq`/`cd`, tùy bạn muốn chỉnh sửa ở đâu.
 
 ![demo-detail-keybinding](./resources/gif-guides/vimfast.gif)
-![vimfast-video](./resources/videos/vimfast.mp4)
+
+https://github.com/thaiminhpv/blogs/raw/main/How-To-Code-30-times-faster-with-vimfast/resources/videos/vimfast.mp4
 
 `b` là "bracket" hay `(`, `)`
 
