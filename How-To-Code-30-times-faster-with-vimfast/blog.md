@@ -91,7 +91,7 @@ Các bạn tưởng tượng quy trình sẽ như thế này:
 
 ![demo-detail-keybinding](./resources/gif-guides/vimfast.gif)
 
-https://github.com/thaiminhpv/blogs/raw/main/How-To-Code-30-times-faster-with-vimfast/resources/videos/vimfast.mp4
+https://github.com/thaiminhpv/blogs/assets/48098520/426ec59e-d565-49f6-8312-a059bf97d97c
 
 `b` là "bracket" hay `(`, `)`
 
