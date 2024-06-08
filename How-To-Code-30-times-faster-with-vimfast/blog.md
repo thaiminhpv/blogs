@@ -57,7 +57,7 @@ Thì ở trên VSCode hay intelji thì họ đều có extension để giả l�
 
 Chẳng hạn, mình rất hay dùng tính năng multi-cursor của VSCode kết hợp với các câu lệnh điều khiển của Vim.
 
-![multi-cursor](./resources/gif-guides/multi-cursor.gif)
+![multi-cursor](./resources/gif-guides/multi-cursor-demo.gif)
 
 ## Phần chính
 
